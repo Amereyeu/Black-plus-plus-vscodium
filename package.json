@@ -1,0 +1,63 @@
+{
+  "name": "blackplusplus",
+  "displayName": "Black++ Theme",
+  "description": "Simple Black Theme",
+  "publisher": "Amerey",
+  "author": {
+    "name": "Amerey"
+  },
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Amereyeu/Black-plus-plus-vscodium.git"
+  },
+  "galleryBanner": {
+    "color": "#000",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black++ Dark Ula",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-dark-ula.json"
+      },
+      {
+        "label": "Black++ Golden Goose",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-golden-goose.json"
+      },
+      {
+        "label": "Black++ Green Barret",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-green-barret.json"
+      },
+      {
+        "label": "Black++ Nord Stream",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-nord-stream.json"
+      },
+      {
+        "label": "Black++ Vivid Sky",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-vivid-sky.json"
+      },
+      {
+        "label": "Black++ Yellow Fever",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blackplusplus-yellow-fever.json"
+      }
+    ]
+  }
+}
+
+
+
+
