@@ -4,6 +4,10 @@
 
 <h1 align="center">Black++ theme</h1>
 
+### Big Orange Theme
+
+![Big Orange](./images/big-orange.png)
+
 ### Dark Ula Theme
 
 ![Dark Ula](./images/dark-ula.png)

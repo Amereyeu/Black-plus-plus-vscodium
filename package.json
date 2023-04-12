@@ -25,6 +25,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Black++ Big Orange",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-big-orange.json"
+      },
+      {
         "label": "Black++ Dark Ula",
         "uiTheme": "vs-dark",
         "path": "/themes/blackplusplus-dark-ula.json"
@@ -55,9 +60,8 @@
         "path": "./themes/blackplusplus-yellow-fever.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
-
-
 
 
