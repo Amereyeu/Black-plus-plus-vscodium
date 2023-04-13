@@ -20,6 +20,9 @@
 
 ![Green Barret](./images/green-barret.png)
 
+### Grey Matter Theme
+
+![Grey Matter](./images/grey-matter.png)
 ### Nord Stream Theme
 
 ![Nord Stream](./images/nord-stream.png)

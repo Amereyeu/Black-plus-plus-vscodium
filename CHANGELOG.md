@@ -6,5 +6,8 @@
 
 ## [v1.0.2]
 
-- added big orange theme
+- added Big Orange theme
 
+## [v1.0.3]
+
+- added Grey Matter theme

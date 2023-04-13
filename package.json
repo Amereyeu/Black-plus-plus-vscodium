@@ -6,7 +6,7 @@
   "author": {
     "name": "Amerey"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -45,6 +45,11 @@
         "path": "/themes/blackplusplus-green-barret.json"
       },
       {
+        "label": "Black++ Grey Matter",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-grey-matter.json"
+      },
+      {
         "label": "Black++ Nord Stream",
         "uiTheme": "vs-dark",
         "path": "/themes/blackplusplus-nord-stream.json"
@@ -63,5 +68,6 @@
   },
   "license": "MIT"
 }
+
 
 
