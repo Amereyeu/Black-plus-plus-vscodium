@@ -23,9 +23,14 @@
 ### Grey Matter Theme
 
 ![Grey Matter](./images/grey-matter.png)
+
 ### Nord Stream Theme
 
 ![Nord Stream](./images/nord-stream.png)
+
+### Red Forest Theme
+
+![Red Forest](./images/red-forest.png)
 
 ### Vivid Sky Theme
 
@@ -39,10 +44,11 @@ Theme is combined with [Indent Rainbow](https://open-vsx.org/extension/oderwat/i
 
 ```
 "indentRainbow.colors": [
-    "rgba(255,255,255,0.1)",
-    "rgba(255,255,255,0.2)",
-    "rgba(255,255,255,0.3)",
-    "rgba(255,255,255,0.2)",
-    "rgba(255,255,255,0.1)"
+  "rgba(255,255,255,0.1)",
+  "rgba(255,255,255,0.2)",
+  "rgba(255,255,255,0.3)",
+  "rgba(255,255,255,0.2)",
+  "rgba(255,255,255,0.1)"
 ]
 ```
+

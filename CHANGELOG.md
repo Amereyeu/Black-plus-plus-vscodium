@@ -11,3 +11,7 @@
 ## [v1.0.3]
 
 - added Grey Matter theme
+
+## [v1.0.4]
+
+- added Red Forest theme
