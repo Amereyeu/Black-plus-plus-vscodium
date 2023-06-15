@@ -25,14 +25,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Black++ Blue Moon",
-        "uiTheme": "vs-dark",
-        "path": "/themes/blackplusplus-blue-moon.json"
-      },
-      {
         "label": "Black++ Big Orange",
         "uiTheme": "vs-dark",
         "path": "/themes/blackplusplus-big-orange.json"
+      },
+      {
+        "label": "Black++ Blue Moon",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-blue-moon.json"
       },
       {
         "label": "Black++ Dark Ula",
@@ -78,6 +78,7 @@
   },
   "license": "MIT"
 }
+
 
 
 

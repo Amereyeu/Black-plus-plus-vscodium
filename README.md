@@ -4,13 +4,13 @@
 
 <h1 align="center">Black++ theme</h1>
 
-### Blue Moon Theme
-
-![Blue Moon](./images/blue-moon.png)
-
 ### Big Orange Theme
 
 ![Big Orange](./images/big-orange.png)
+
+### Blue Moon Theme
+
+![Blue Moon](./images/blue-moon.png)
 
 ### Dark Ula Theme
 
