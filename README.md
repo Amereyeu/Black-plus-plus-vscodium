@@ -4,6 +4,10 @@
 
 <h1 align="center">Black++ theme</h1>
 
+### Blue Moon Theme
+
+![Blue Moon](./images/blue-moon.png)
+
 ### Big Orange Theme
 
 ![Big Orange](./images/big-orange.png)
@@ -51,4 +55,3 @@ Theme is combined with [Indent Rainbow](https://open-vsx.org/extension/oderwat/i
   "rgba(255,255,255,0.1)"
 ]
 ```
-

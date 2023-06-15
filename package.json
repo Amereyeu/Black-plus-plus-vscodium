@@ -6,7 +6,7 @@
   "author": {
     "name": "Amerey"
   },
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -24,6 +24,11 @@
   "icon": "images/icon/logo.png",
   "contributes": {
     "themes": [
+      {
+        "label": "Black++ Blue Moon",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-blue-moon.json"
+      },
       {
         "label": "Black++ Big Orange",
         "uiTheme": "vs-dark",

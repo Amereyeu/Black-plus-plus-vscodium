@@ -15,3 +15,7 @@
 ## [v1.0.4]
 
 - added Red Forest theme
+
+## [v1.0.5]
+
+- added Blue Moon theme
