@@ -4,6 +4,12 @@
 
 <h1 align="center">Black++ theme</h1>
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Amereyeu/Black-plus-plus-vscodium)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/anteprimorac/html-end-tag-labels)](https://open-vsx.org/extension/Amerey/blackplusplus) 
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/anteprimorac/html-end-tag-labels?label=open%20vsx%20downloads)](https://open-vsx.org/extension/Amerey/blackplusplus)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-$4-orange)](https://ko-fi.com/amerey)
+
+
 ### Big Orange Theme
 
 ![Big Orange](./images/big-orange.png)
