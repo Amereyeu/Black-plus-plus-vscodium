@@ -1,14 +1,15 @@
 <p align="center">
-    <img src="images/icon/logo.png" alt="Black++ logo" width="200">
+  <img src="images/icon/logo.png" alt="Black++ logo" width="200">
 </p>
 
 <h1 align="center">Black++ theme</h1>
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Amereyeu/Black-plus-plus-vscodium)
-[![Open VSX Version](https://img.shields.io/open-vsx/v/anteprimorac/html-end-tag-labels)](https://open-vsx.org/extension/Amerey/blackplusplus) 
-[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/anteprimorac/html-end-tag-labels?label=open%20vsx%20downloads)](https://open-vsx.org/extension/Amerey/blackplusplus)
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-$4-orange)](https://ko-fi.com/amerey)
-
+<p align="center">
+  <a href="https://github.com/Amereyeu/Black-plus-plus-vscodium"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="GitHub license"></a>
+  <a href="https://open-vsx.org/extension/Amerey/blackplusplus"><img src="https://img.shields.io/open-vsx/v/anteprimorac/html-end-tag-labels" alt="Open VSX Version"></a> 
+  <a href="https://open-vsx.org/extension/Amerey/blackplusplus"><img src="https://img.shields.io/open-vsx/dt/anteprimorac/html-end-tag-labels?label=open%20vsx%20downloads" alt="Open VSX Downloads"></a>
+  <a href="https://ko-fi.com/amerey"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-$4-orange" alt="Buy me a coffee"></a>
+</p>
 
 ### Big Orange Theme
 
