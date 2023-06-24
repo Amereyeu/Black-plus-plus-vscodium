@@ -19,3 +19,11 @@
 ## [v1.0.5]
 
 - added Blue Moon theme
+
+## [v1.0.6]
+
+- added badges
+
+## [v1.0.7]
+
+- new theme icon
