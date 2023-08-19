@@ -6,7 +6,7 @@
   "author": {
     "name": "Amerey"
   },
-  "version": "1.0.8",
+  "version": "1.0.9",
   "engines": {
     "vscode": "^1.77.0"
   },
@@ -63,6 +63,11 @@
         "label": "Black++ Red Forest",
         "uiTheme": "vs-dark",
         "path": "/themes/blackplusplus-red-forest.json"
+      },
+      {
+        "label": "Black++ Vice",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-vice.json"
       },
       {
         "label": "Black++ Vivid Sky",

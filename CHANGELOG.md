@@ -27,3 +27,7 @@
 ## [v1.0.7]
 
 - new theme icon
+
+## [v1.0.9]
+
+- added Vice theme

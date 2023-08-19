@@ -64,6 +64,10 @@
 
 ![Red Forest](./images/red-forest.png)
 
+### Vice Theme
+
+![Vice](./images/vice.png)
+
 ### Vivid Sky Theme
 
 ![Vivid Sky](./images/vivid-sky.png)
