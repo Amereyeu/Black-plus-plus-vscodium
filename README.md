@@ -64,6 +64,10 @@
 
 ![Red Forest](./images/red-forest.png)
 
+### Shale Green Theme
+
+![Shale Green](./images/shale-green.png)
+
 ### Vice Theme
 
 ![Vice](./images/vice.png)

@@ -31,3 +31,7 @@
 ## [v1.0.9]
 
 - added Vice theme
+
+## [v1.0.10]
+
+- added Shale Green theme
