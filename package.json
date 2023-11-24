@@ -55,6 +55,11 @@
         "path": "/themes/blackplusplus-grey-matter.json"
       },
       {
+        "label": "Black++ Lavender Pink",
+        "uiTheme": "vs-dark",
+        "path": "/themes/blackplusplus-lavender-pink.json"
+      },
+      {
         "label": "Black++ Nord Stream",
         "uiTheme": "vs-dark",
         "path": "/themes/blackplusplus-nord-stream.json"

@@ -35,3 +35,7 @@
 ## [v1.0.10]
 
 - added Shale Green theme
+
+## [v1.0.11]
+
+- added Lavender Pink theme

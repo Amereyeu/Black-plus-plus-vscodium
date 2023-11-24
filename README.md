@@ -56,6 +56,10 @@
 
 ![Grey Matter](./images/grey-matter.png)
 
+### Lavender Pink Theme
+
+![Lavender Pink](./images/lavender-pink.png)
+
 ### Nord Stream Theme
 
 ![Nord Stream](./images/nord-stream.png)
